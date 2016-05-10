@@ -112,12 +112,16 @@ You guys are going to tell me how to make a PB and J so I can eat it.and then I'
 
 Each step is like a line of computer code. 
 
+**Basic steps you should receive**
+
 1. Open Bag (rip open from wrong end)
 2. Get 2 slices of bread out
 3. Apply PB (way too much PB)
 4. Apply Jelly (way too much jelly)
 5. Put together (wrong way, w/ PB & J on outside)
 6. Eat it
+
+*Write them on the board and have them read the off to you before you do each step*
 
 ---
 
