@@ -1,17 +1,17 @@
 ### Slide 1
 
-[Slide 1](slides/slide1.jpg)
+[Slide 1](slides/slide1.jpg?raw=true)
 How is it going?
 
 ### Slide 2
 
-[Slide 2](slides/slide2.jpg)
+[Slide 2](slides/slide2.jpg?raw=true)
 
 My name is Erik Galloway and I work for a company called Flip Learning as a Software Developer or you guys might know what I do as a computer programmer.
 
 ### Slide 3
 
-[Slide 3](slides/slide3.jpg)
+[Slide 3](slides/slide3.jpg?raw=true)
 
 Who can tell me what a computer programmer is?
 
@@ -28,7 +28,7 @@ To solve problems you a programmer will build and create/programs things such as
 
 ### Slide 4
 
-[Slide 4](slides/slide4.jpg)
+[Slide 4](slides/slide4.jpg?raw=true)
 
 What is it like to be computer programmer/me?
 
@@ -40,7 +40,7 @@ What is it like to be computer programmer/me?
 
 ### Slide 5
 
-[Slide 5](slides/slide5.jpg)
+[Slide 5](slides/slide5.jpg?raw=true)
 
 Well.. I work he sleeps most of the time....
 
@@ -59,7 +59,7 @@ So I've got a question for you guys that I've been wondering...
 
 ### Slide 7
 
-[Slide 7](slides/slide7.jpg)
+[Slide 7](slides/slide7.jpg?raw=true)
 
 Xbox or Playstation.
 
@@ -82,7 +82,7 @@ Ok, one more question.. How many of you have cell phones.. I have an Iphone
 
 ### Slide 8
 
-[Slide 8](slides/slide8.jpg)
+[Slide 8](slides/slide8.jpg?raw=true)
 
 So do we like iPhones better or Android phones better?
 
@@ -98,19 +98,19 @@ You can program them to create and run an app or game.
 
 ### Slide 9
 
-[Slide 9](slides/slide9.jpg)
+[Slide 9](slides/slide9.jpg?raw=true)
 
 So we know if we want to be a programmer we get to work with computers.
 
 ### Slide 10
 
-[Slide 10](slides/slide10.jpg)
+[Slide 10](slides/slide10.jpg?raw=true)
 
 I have another question... Do you think computers are smart or dumb?
 
 ### Slide 11
 
-[Slide 11](slides/slide11.jpg)
+[Slide 11](slides/slide11.jpg?raw=true)
 
 Computers are actually dumb... For a computer to run they need to be told exactly what to do and when.
 
@@ -155,7 +155,7 @@ the problems until it is perfect.
 
 ### Slide 12
 
-[Slide 12](slides/slide12.jpg)
+[Slide 12](slides/slide12.jpg?raw=true)
 
 So what do I do exactly?
 
@@ -165,13 +165,13 @@ So what do I do exactly?
 
 ### Slide 13
 
-[Slide 13](slides/slide13.jpg)
+[Slide 13](slides/slide13.jpg?raw=true)
 
 This is the application I created for the my work that makes learning fun..
 
 ### Slide 14
 
-[Slide 14](slides/slide14.jpg)
+[Slide 14](slides/slide14.jpg?raw=true)
 
 And I even created a game for you guys... 
 
