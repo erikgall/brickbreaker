@@ -1,66 +1,73 @@
-[slide 1]
+### Slide 1
 
 How is it going?
 
-[slide 2]
+### Slide 2
 
-My name is Erik Galloway and I am a computer programmer for a company called Flip Learning.
+My name is Erik Galloway and I work for a company called Flip Learning as a Software Developer or you guys might know what I do as a computer programmer.
 
-[slide 3]
+### Slide 3
 
-What is computer programmer. 
+Who can tell me what a computer programmer is?
 
-- It is about helping people and making the world a better place.
-- Solving problems for people
-- Building and making new cool technology and stuff like...
-- Computer Programs or Software, Applications, Websites, Artificial Intelligence or AI
+So a computer programmer is and does..
 
+Being a programemr is about helping people and making the world a better place by solving problems using technology.
 
-And I get to work with my buddy Reggie...
+To solve problems you a programmer will build and create/programs things such as:
+1. Software/Programs
+2. Apps
+3. Websites
+4. Robots
+5. Artificial Intelligence (AI)
 
-[slide 4]
+### Slide 4
 
-What is like to be a computer programmer
+What is it like to be computer programmer/me?
 
 - People think I am really smart
 - I get to help people
 - I get to make the world a better and more efficient place
+- I get to build cool things for fun.
 - And the real reason I love it is because I get to work from home and hangout with my buddy Reggie all day.
 
-[slide 5]
+### Slide 5
 
-Well.. I work he sleeps most of the time.
+Well.. I work he sleeps most of the time....
 
-He didn't want me to show you this picture.. but do you guys want to see a funny one of how he sleeps sometimes..
+Do you guys want to see a picture of how he sleeps sometimes?
 
-[slide 6]
+He told me never to show anyone this picture... Sorry Reggie.
 
 
-Ok... How many of you like play video games? Great.. So I personally like to play Xbox but.. 
+### Slide 6
 
-[slide 7]
+Ok... So who here likes to play video games? Nice..  I do too... I like play Xbox..
 
-I've been wondering which one is better.. Xbox or Playstation?
+So I've got a question for you guys that I've been wondering... 
+
+### Slide 7
+
+Xbox or Playstation.
 
 Great.. Who thinks they have an idea for a game that has never been done before?
 
-Awesome, because... Computers can be programmed to make games and both the Xbox and Playstation are computers.. 
+Awesome, did you guys know that an Xbox and Playstation are both computers...
 
 Just like my laptop right here. They all have the same parts in them.
 
 A.. 
 - Hard Drive
-- Central Processing Unit or CPU
-- Random Access Memory or RAM
+- Motherboard
 - Graphics Card
-- And more...
 
-But that means you could create a game for an Xbox or Playstation.
-
+But if you are a computer programmer and can program computers..
+ 
+That means you can create a game for an Xbox or Playstation by using what you know about programming.
 
 Ok, one more question.. How many of you have cell phones.. I have an Iphone
 
-[slide 8]
+### Slide 8
 
 So do we like iPhones better or Android phones better?
 
@@ -68,18 +75,21 @@ So do we like iPhones better or Android phones better?
 
 Did you guys ever have an idea for an app or game? 
 
-Because these are computers too.. And just like an Xbox or Playstation.. 
+Cellphones are computers too.. 
+
+And just like an Xbox or Playstation.. 
+
 You can program them to create and run an app or game.
 
-[slide 9]
+### Slide 9
 
 So we know if we want to be a programmer we get to work with computers.
 
-[slide 10]
+### Slide 10
 
 I have another question... Do you think computers are smart or dumb?
 
-[slide 11]
+### Slide 11
 
 Computers are actually dumb... For a computer to run they need to be told exactly what to do and when.
 
@@ -102,11 +112,11 @@ You guys are going to tell me how to make a PB and J so I can eat it.and then I'
 
 Each step is like a line of computer code. 
 
-1. Open Bag wrong end
-2. Get 2 slices out
-3. Apply PB
-4. Apply Jelly
-5. Put together wrong way
+1. Open Bag (rip open from wrong end)
+2. Get 2 slices of bread out
+3. Apply PB (way too much PB)
+4. Apply Jelly (way too much jelly)
+5. Put together (wrong way, w/ PB & J on outside)
 6. Eat it
 
 ---
@@ -118,19 +128,23 @@ All of the problems we had like when I put together the sandwich the wrong way i
 What I do as a computer programmer is after I write the first code sort of like you guys di... I test it and then go back and fix
 the problems until it is perfect.
 
-[slide 12]
+### Slide 12
 
-So what do i do exactly?
+So what do I do exactly?
 
 - I create web applications that make learning fun and interactive on a computer.. 
  
 - I also create websites, apps and games.
 
-[slide 13] 
+### Slide 13
 
 This is the application I created for the my work that makes learning fun..
 
-[slide 14]
+### Slide 14
 
-And I even created a game for you guys... Who thinks they can beat my high score...
+And I even created a game for you guys... 
+
+Have you guys ever heard of the game Brick Breaker..
+
+Who thinks they can beat my high score... My high score is 17 (one kid got 18 and one kid got 17) so 17 seemed like a perfect number to pick.
 
