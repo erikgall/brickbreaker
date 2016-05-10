@@ -1,4 +1,4 @@
-# BrickBreaker
+# Software Developer Career Day Speech w/ BrickBreaker Game
 
 This repository/game is part of a career day presentation I had to give on 5/10/16.
 
@@ -41,6 +41,13 @@ The code is a little bit all over the place but I plan on cleaning it up it a li
     - Ball X Speed: 4px/100ms
     - Ball Y Speed: 6px/100ms
 
+## Resources/Credits
+
+Thank you to Alex Dresko for the base speech, experiment (which went 10x better than expected and the kids loved it) and some of the slide images.
+
+I didn't have a clue on what to talk about until reading your post. I also had the same question asked many of times.. "Do you have any games or apps in the app store?" I need to get a game in the App Store before doing another one of these.
+
+http://www.alexdresko.com/2014/11/21/my-20-minute-software-developer-presentation-for-7th-graders/
 
     
 
