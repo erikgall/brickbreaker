@@ -1,17 +1,17 @@
 ### Slide 1
 
-[Slide 1](slides/slide1.jpg?raw=true)
+![Slide 1](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide1.jpg)
 How is it going?
 
 ### Slide 2
 
-[Slide 2](slides/slide2.jpg?raw=true)
+![Slide 2](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide2.jpg)
 
 My name is Erik Galloway and I work for a company called Flip Learning as a Software Developer or you guys might know what I do as a computer programmer.
 
 ### Slide 3
 
-[Slide 3](slides/slide3.jpg?raw=true)
+![Slide 3](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide3.jpg)
 
 Who can tell me what a computer programmer is?
 
@@ -28,7 +28,7 @@ To solve problems you a programmer will build and create/programs things such as
 
 ### Slide 4
 
-[Slide 4](slides/slide4.jpg?raw=true)
+![Slide 4](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide4.jpg)
 
 What is it like to be computer programmer/me?
 
@@ -40,7 +40,7 @@ What is it like to be computer programmer/me?
 
 ### Slide 5
 
-[Slide 5](slides/slide5.jpg?raw=true)
+![Slide 5](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide5.jpg)
 
 Well.. I work he sleeps most of the time....
 
@@ -51,7 +51,7 @@ He told me never to show anyone this picture... Sorry Reggie.
 
 ### Slide 6
 
-[Slide 6](slides/slide6.jpg)
+![Slide 6](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide6.jpg)
 
 Ok... So who here likes to play video games? Nice..  I do too... I like play Xbox..
 
@@ -59,7 +59,7 @@ So I've got a question for you guys that I've been wondering...
 
 ### Slide 7
 
-[Slide 7](slides/slide7.jpg?raw=true)
+![Slide 7](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide7.jpg)
 
 Xbox or Playstation.
 
@@ -82,7 +82,7 @@ Ok, one more question.. How many of you have cell phones.. I have an Iphone
 
 ### Slide 8
 
-[Slide 8](slides/slide8.jpg?raw=true)
+![Slide 8](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide8.jpg)
 
 So do we like iPhones better or Android phones better?
 
@@ -98,19 +98,19 @@ You can program them to create and run an app or game.
 
 ### Slide 9
 
-[Slide 9](slides/slide9.jpg?raw=true)
+![Slide 9](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide9.jpg)
 
 So we know if we want to be a programmer we get to work with computers.
 
 ### Slide 10
 
-[Slide 10](slides/slide10.jpg?raw=true)
+![Slide 10](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide10.jpg)
 
 I have another question... Do you think computers are smart or dumb?
 
 ### Slide 11
 
-[Slide 11](slides/slide11.jpg?raw=true)
+![Slide 11](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide11.jpg)
 
 Computers are actually dumb... For a computer to run they need to be told exactly what to do and when.
 
@@ -155,7 +155,7 @@ the problems until it is perfect.
 
 ### Slide 12
 
-[Slide 12](slides/slide12.jpg?raw=true)
+![Slide 12](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide12.jpg)
 
 So what do I do exactly?
 
@@ -165,13 +165,13 @@ So what do I do exactly?
 
 ### Slide 13
 
-[Slide 13](slides/slide13.jpg?raw=true)
+![Slide 13](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide13.jpg)
 
 This is the application I created for the my work that makes learning fun..
 
 ### Slide 14
 
-[Slide 14](slides/slide14.jpg?raw=true)
+![Slide 14](https://raw.githubusercontent.com/erikgall/career-day/master/slides/slide14.jpg)
 
 And I even created a game for you guys... 
 
