@@ -2,6 +2,8 @@
 
 This repository/game is part of a career day presentation I had to give on 5/10/16.
 
+##### The slides and a rough outline of what I said/when I said it and my powerpoint slides can be found in the [speech.md](speech.md) file.
+
 My goal was to demonstrate something fun they could create if they learned how to program and also as a fun, interactive, "see if you can get the high score" activity at then end.
 
 ## The Game
